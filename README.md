@@ -20,3 +20,7 @@ Features
    ```bash
    git clone https://github.com/your-username/movie-review-sentiment-analysis.git
    cd movie-review-sentiment-analysis
+
+
+   ## NOTE:
+   Was not able to uplaod the dataset casue of size issue 
